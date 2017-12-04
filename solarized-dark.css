@@ -13,7 +13,7 @@ strong,
 span.d2l-textblock,
 .d2l-calendar-mini-weekend,
 .d2l-calendar-mini th > abbr {
-    color: #ECEFF1 !important;
+    color: #839496 !important;
 }
 h1,
 h2,
@@ -156,5 +156,24 @@ a {
 .d2l-button:hover {
     background-color: #cc6c43 !important;
     color: #fff;
+}
+.daylight #D2L_LE_Content_TreeBrowser_TOC.d2l-le-TreeAccordionItem {
+    margin-top: 0px;
+    border-top: solid;
+}
+.daylight #D2L_LE_Content_TreeBrowser .d2l-le-TreeAccordionItem {
+    border-top: 1px solid;
+}
+.daylight #D2L_LE_Content_TreeBrowser .d2l-le-TreeAccordionItem, .daylight #ContentPluginTree .d2l-le-TreeAccordionItem {
+    padding: 8px 0 8px 0;
+}
+.d2l-typography {
+    color: #b58900;
+}
+.d2l-navigation-s-main.d2l-navigation-main-tb {
+    background: #073642;
+}
+.d2l-navigation-s-has-branding .d2l-navigation-s-header-logo-area > .d2l-navigation-s-link {
+    font-size: .8rem;
 }
 }
