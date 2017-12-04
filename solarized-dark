@@ -76,7 +76,7 @@ header,
 }
 
 a{
-    color: #1565C0 !important;
+    color: #b58900 !important;
     text-decoration: none !important;
 }
 .d2l-navigation-s-logo-link,
@@ -146,5 +146,19 @@ background: none;
 
 .d2l-link, .d2l-link:active, .d2l-link:link, .d2l-link:visited {
     color: #657b83;
+}
+
+.vui-input-search-container input[type="text"], .vui-input-search-container input[type="text"]:hover:disabled, .vui-input-search-container input[type="search"], .vui-input-search-container input[type="search"]:hover:disabled {
+    background-color: #839496;
+}
+
+.d2l-button {
+    background-color: #cb4b16;
+    color: #fff;
+}
+
+.d2l-button:hover {
+    background-color: #cc6c43 !important;
+    color: #fff;
 }
 }
