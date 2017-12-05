@@ -163,7 +163,8 @@ a {
 .daylight #D2L_LE_Content_TreeBrowser .d2l-le-TreeAccordionItem {
     border-top: 1px solid;
 }
-.daylight #D2L_LE_Content_TreeBrowser .d2l-le-TreeAccordionItem, .daylight #ContentPluginTree .d2l-le-TreeAccordionItem {
+.daylight #D2L_LE_Content_TreeBrowser .d2l-le-TreeAccordionItem,
+.daylight #ContentPluginTree .d2l-le-TreeAccordionItem {
     padding: 8px 0 8px 0;
 }
 .d2l-typography {
@@ -175,12 +176,34 @@ a {
 .d2l-navigation-s-has-branding .d2l-navigation-s-header-logo-area > .d2l-navigation-s-link {
     font-size: .8rem;
 }
-.d2l-navigation-s-main.d2l-navigation-main-tb a{
+.d2l-navigation-s-main.d2l-navigation-main-tb a {
     color: #eee8d5 !important;
 }
-.d2l-navigation-s-main.d2l-navigation-main-tb button{
+.d2l-navigation-s-main.d2l-navigation-main-tb button {
     color: #eee8d5 !important;
 }
 .d2l-dropdown-content-width.style-scope.d2l-dropdown-menu a {
     color: #586e75 !important;
+}
+body {
+    color: #eee8d5
+}
+.vui-tabmenu > .vui-tabmenu-item-select > a {
+    background-color: #073642;
+}
+.vui-tabmenu > .vui-tabmenu-item > a {
+    padding: 5px 15px;
+}
+.d2l-iterator-button {
+    background-color: #b58900 !important;
+    border: 1px solid #424242 !important;
+}
+.daylight .d2l-header-top .d2l-box-h {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.d2l-table-0 > * > tr[header] > th,
+.d2l-table-0 > thead > tr > th {
+    color: #fdf6e3;
+    background-color: #2aa198;
 }
