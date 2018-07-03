@@ -2,10 +2,10 @@
 Less bloated styles for Brightspace
 
 ## Usage
-* Install Stylish: [Chromium](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) or [Firefox](https://addons.mozilla.org/nl/firefox/addon/stylish/).
-* Click on Stylish, then the three dots in the top right of the menu. Then click on `Manage All Styles`.
-* Click on `Write new style` on the left hand side of the screen.
-* Paste the style
-* Below, click `Specify`, then change `URL` to `URLs on the domain`, followed by `brightspace.tudelft.nl`.
-* On the left hand side, give it a name and hit Save
-![git gud](https://i.imgur.com/3lv7TeV.png)
+* Remove Stylish if you have it installed because [they're evil](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/)
+* Install Stylus for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/?src=userprofile) or [Chromium](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+* Go to Brightspace
+* Click on Stylus icon > `Write a style`
+* Paste the css
+* In the dropdown menu below, apply it to `URLs on the domain` and enter `https://brightspace.tudelft.nl/`
+* On the left side, smash that Save button
