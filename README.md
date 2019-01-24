@@ -9,3 +9,6 @@ Less bloated styles for Brightspace
 * Paste the css
 * In the dropdown menu below, apply it to `URLs on the domain` and enter `https://brightspace.tudelft.nl/`
 * On the left side, smash that Save button
+
+## Other styles
+* The webmail dark-as-my-soul theme is based on a work by [Jeff Poppers](https://userstyles.org/styles/157185/owa-webmail-dark), licensed CC BY-SA. Use it with URLs on the domain: `webmail.tudelft.nl`
